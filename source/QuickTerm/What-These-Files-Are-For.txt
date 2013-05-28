@@ -1,0 +1,7 @@
+*.qts - Scripts written for QuickTerminal Server Edition
+*.vb* - VB stuff
+app.config - Studios stuff
+Dev.log - Anything that happened before it was uploaded to GitHub
+List.txt - A list of virus MD5 Hashes
+Main.conf - Configuration for the program
+README.txt - Same as the one you read before

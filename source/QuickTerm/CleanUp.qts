@@ -1,0 +1,19 @@
+﻿#e.log
+title QTSE Server Clean Up Script
+echo Deleting Downloads
+del C:\foo\bar\downloads
+echo done.
+echo Checking for program update
+update
+echo done.
+echo Running C Cleaner
+run CCleaner.exe
+echo
+echo Time to defrag
+break
+echo Defragging all drives...
+shell defrag /c /h
+echo Done!
+echo Press anykey to restart
+break
+restart
