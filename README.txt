@@ -12,9 +12,10 @@ Files              | Reason To Have
 nc.exe*             Allows for telnet server and con (your anti-virus may pick this up but it's safe)
 crawl.exe	    Crawls the web for links and emails
 vscan.exe	    Does virus scanning from an offline data-base
-			(vscan is OK but it's recomended to get a better [3rd party] program)
 main.conf	    A file that is loaded by QuickTermSE to determine certain vars like backup location and telnet settings
 
+
+(vscan is OK but it's recomended to get a better [3rd party] program)
 
 Sources\License\More info on 3rd party programs:
 -7ze.exe (7-Zip)
@@ -24,4 +25,4 @@ Licensed under the GNU LGPL license and the source can be found at www.7-zip.org
 -nc.exe (Netcat) 
 A simple Unix utility which reads and writes data across network connections, 
 using TCP or UDP protocol. Originally created by *Hobbit*. It is licensed under the 
-Public Domain License and the source can be found at sourceforge.net/projects/nc110/
+Public Domain License and the source can be found at www.sourceforge.net/projects/nc110/
