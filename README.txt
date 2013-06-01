@@ -1,4 +1,5 @@
 ﻿[Quick Terminal Server Edition]
+[Requires Visual Studios]
 
 SOME THINGS DO NOT WORK AT THE MOMENT
 
