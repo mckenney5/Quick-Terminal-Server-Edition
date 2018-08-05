@@ -1,4 +1,7 @@
-﻿[Quick Terminal Server Edition]
+!-- UNSAFE, DEPRECATED, ARCHIVE ONLY --!
+SEE ISSUE 1
+
+[Quick Terminal Server Edition]
 [Requires Visual Studios]
 
 SOME THINGS DO NOT WORK AT THE MOMENT
